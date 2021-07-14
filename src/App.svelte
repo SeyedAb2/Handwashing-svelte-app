@@ -21,4 +21,4 @@
     <a href="https://freesound.org/people/metrostock99/sounds/345086/">Sound Source</a>
 </h3>
  
-<audio bind:this={audio} src="public_sound.wav"></audio>
+<audio bind:this={audio} src="build/public_sound.wav"></audio>
